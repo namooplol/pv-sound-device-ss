@@ -1,0 +1,8 @@
+{
+  "parent": "pvsound:block/mixer_base",
+  "textures": {
+    "front": "pvsound:block/mixer_front_on",
+    "side": "pvsound:block/mixer_side",
+    "top": "pvsound:block/mixer_top_on"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["BBB", "CNC", "III"],
+  "key": {
+    "B": { "tag": "minecraft:buttons" },
+    "C": { "item": "minecraft:comparator" },
+    "N": { "item": "minecraft:note_block" },
+    "I": { "item": "minecraft:iron_ingot" }
+  },
+  "result": { "item": "pvsound:mixer" }
+}

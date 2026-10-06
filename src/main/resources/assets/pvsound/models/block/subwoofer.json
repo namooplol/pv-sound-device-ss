@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "pvsound:block/subwoofer_front",
+    "side": "pvsound:block/subwoofer_side",
+    "top": "pvsound:block/subwoofer_top"
+  }
+}

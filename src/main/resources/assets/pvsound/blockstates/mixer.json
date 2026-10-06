@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=north,playing=false": {
+      "model": "pvsound:block/mixer"
+    },
+    "facing=north,playing=true": {
+      "model": "pvsound:block/mixer_on"
+    },
+    "facing=east,playing=false": {
+      "model": "pvsound:block/mixer",
+      "y": 90
+    },
+    "facing=east,playing=true": {
+      "model": "pvsound:block/mixer_on",
+      "y": 90
+    },
+    "facing=south,playing=false": {
+      "model": "pvsound:block/mixer",
+      "y": 180
+    },
+    "facing=south,playing=true": {
+      "model": "pvsound:block/mixer_on",
+      "y": 180
+    },
+    "facing=west,playing=false": {
+      "model": "pvsound:block/mixer",
+      "y": 270
+    },
+    "facing=west,playing=true": {
+      "model": "pvsound:block/mixer_on",
+      "y": 270
+    }
+  }
+}

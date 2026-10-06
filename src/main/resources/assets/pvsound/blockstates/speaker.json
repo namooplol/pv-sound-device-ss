@@ -1,0 +1,64 @@
+{
+  "variants": {
+    "channel=left,facing=north": {
+      "model": "pvsound:block/speaker_left"
+    },
+    "channel=right,facing=north": {
+      "model": "pvsound:block/speaker_right"
+    },
+    "channel=mono,facing=north": {
+      "model": "pvsound:block/speaker_mono"
+    },
+    "channel=sub,facing=north": {
+      "model": "pvsound:block/speaker_mono"
+    },
+    "channel=left,facing=east": {
+      "model": "pvsound:block/speaker_left",
+      "y": 90
+    },
+    "channel=right,facing=east": {
+      "model": "pvsound:block/speaker_right",
+      "y": 90
+    },
+    "channel=mono,facing=east": {
+      "model": "pvsound:block/speaker_mono",
+      "y": 90
+    },
+    "channel=sub,facing=east": {
+      "model": "pvsound:block/speaker_mono",
+      "y": 90
+    },
+    "channel=left,facing=south": {
+      "model": "pvsound:block/speaker_left",
+      "y": 180
+    },
+    "channel=right,facing=south": {
+      "model": "pvsound:block/speaker_right",
+      "y": 180
+    },
+    "channel=mono,facing=south": {
+      "model": "pvsound:block/speaker_mono",
+      "y": 180
+    },
+    "channel=sub,facing=south": {
+      "model": "pvsound:block/speaker_mono",
+      "y": 180
+    },
+    "channel=left,facing=west": {
+      "model": "pvsound:block/speaker_left",
+      "y": 270
+    },
+    "channel=right,facing=west": {
+      "model": "pvsound:block/speaker_right",
+      "y": 270
+    },
+    "channel=mono,facing=west": {
+      "model": "pvsound:block/speaker_mono",
+      "y": 270
+    },
+    "channel=sub,facing=west": {
+      "model": "pvsound:block/speaker_mono",
+      "y": 270
+    }
+  }
+}

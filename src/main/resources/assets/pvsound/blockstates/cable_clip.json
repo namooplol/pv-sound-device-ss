@@ -1,0 +1,61 @@
+{
+  "variants": {
+    "face=floor,facing=north": {
+      "model": "pvsound:block/cable_clip"
+    },
+    "face=wall,facing=north": {
+      "model": "pvsound:block/cable_clip",
+      "x": 90,
+      "uvlock": true
+    },
+    "face=ceiling,facing=north": {
+      "model": "pvsound:block/cable_clip",
+      "x": 180,
+      "y": 180
+    },
+    "face=floor,facing=east": {
+      "model": "pvsound:block/cable_clip",
+      "y": 90
+    },
+    "face=wall,facing=east": {
+      "model": "pvsound:block/cable_clip",
+      "x": 90,
+      "uvlock": true,
+      "y": 90
+    },
+    "face=ceiling,facing=east": {
+      "model": "pvsound:block/cable_clip",
+      "x": 180,
+      "y": 270
+    },
+    "face=floor,facing=south": {
+      "model": "pvsound:block/cable_clip",
+      "y": 180
+    },
+    "face=wall,facing=south": {
+      "model": "pvsound:block/cable_clip",
+      "x": 90,
+      "uvlock": true,
+      "y": 180
+    },
+    "face=ceiling,facing=south": {
+      "model": "pvsound:block/cable_clip",
+      "x": 180
+    },
+    "face=floor,facing=west": {
+      "model": "pvsound:block/cable_clip",
+      "y": 270
+    },
+    "face=wall,facing=west": {
+      "model": "pvsound:block/cable_clip",
+      "x": 90,
+      "uvlock": true,
+      "y": 270
+    },
+    "face=ceiling,facing=west": {
+      "model": "pvsound:block/cable_clip",
+      "x": 180,
+      "y": 90
+    }
+  }
+}

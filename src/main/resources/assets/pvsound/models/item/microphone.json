@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "pvsound:item/microphone"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "pvsound:on": 1
+      },
+      "model": "pvsound:item/microphone_on"
+    }
+  ]
+}

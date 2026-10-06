@@ -1,0 +1,13 @@
+.gradle/
+build/
+out/
+run/
+run-server/
+.idea/
+*.iml
+eclipse/
+.classpath
+.project
+.settings/
+backend/.env
+test-server/

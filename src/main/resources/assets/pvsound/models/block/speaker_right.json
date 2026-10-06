@@ -1,0 +1,9 @@
+{
+  "parent": "pvsound:block/speaker_base",
+  "textures": {
+    "front": "pvsound:block/speaker_front_right",
+    "side": "pvsound:block/speaker_side",
+    "back": "pvsound:block/speaker_back",
+    "top": "pvsound:block/speaker_top"
+  }
+}
